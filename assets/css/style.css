@@ -1,0 +1,12 @@
+button,
+div,
+form,
+input {
+  margin: 10px;
+}
+
+.animal {
+  float: left;
+  display: inline-block;
+  text-align: center;
+}
