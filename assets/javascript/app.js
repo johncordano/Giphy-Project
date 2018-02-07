@@ -6,7 +6,7 @@ var animals = ["Cat", "Dog", "Horse", "Hamster"];
 function displayAnimalInfo() {
   // Deletes the images prior to adding new images.
   $("#animals-view").empty();
-  // Creates a variable to use to retreive animal images from Giphy.
+  // Creates a variable to use to retrieve animal images from Giphy.
   var animal = $(this).attr("data-name");
   // Extracts the animal images from Giphy.
   var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + animal + "&api_key=cRJcC3cUgepwCr7h0LWKrpVX8bfYG9JD&limit=10";
