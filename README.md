@@ -4,7 +4,7 @@ For this project, the user clicks buttons to populate the web page with animal i
 
 The following image shows the application:
 
-![train image](assets/images/ghipy-images-scheduler.png)
+![ghipy image](assets/images/ghipy-images.png)
 
 # Tools Used
 
